@@ -1,0 +1,1 @@
+1) khi thao tác với mảng [1,2,3,4,5,6,7]. dạng index tương tác với index+1 --> lên thực hiện for từ 1 đến length --> hạn chế exception và code đơn giản hơn
